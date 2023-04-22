@@ -1,0 +1,32 @@
+.App {
+    color: gray;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+    box-shadow: 12px 12px 2px 1px rgba(144, 238, 144, .2);    
+}
+
+input {
+    margin-bottom: 10px;
+    width: 50%;
+    text-align: center;
+    color: gray;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    margin-bottom: 20px;
+    width: 53%;
+}
